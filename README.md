@@ -1,6 +1,6 @@
 # Shayari Generation Model
 
-This repository contains code to generate Hindi Shayaris. Please see this Medium article for more details.
+This repository contains code to generate Hindi Shayaris. Please see [this Medium article](https://medium.com/sharechat/hindi-shayari-generation-b2f1ade0fb64) for more details.
 
 ### Environment Setup
 - Make sure CUDA >= 10.0 is installed to enable GPU acceleration.
