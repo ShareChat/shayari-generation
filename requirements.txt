@@ -1,0 +1,5 @@
+tqdm==4.41.1
+transformers==2.3.0
+torch==1.4.0
+numpy==1.18.1
+tokenizers==0.2.0
