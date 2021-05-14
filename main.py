@@ -6,7 +6,7 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 from transformers import GPT2LMHeadModel
-from tokenizers import BPETokenizer
+from tokenizers import CharBPETokenizer
 
 
 logging.basicConfig(format = '%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
