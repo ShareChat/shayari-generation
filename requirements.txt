@@ -1,5 +1,8 @@
 tqdm==4.41.1
 transformers==2.3.0
-torch==1.4.0
+torch==1.13.1
 numpy==1.18.1
 tokenizers==0.2.0
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+joblib>=1.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
